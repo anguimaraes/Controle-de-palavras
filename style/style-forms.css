@@ -1,0 +1,57 @@
+.input-wrapper input:focus, .input-wrapper input:active, select:hover, select:focus, select:active, select:checked{
+    border-color:#3AD2AE;
+    box-shadow: inset 0 0 1em #fff, 0 0 .2em #3AD2AE;
+}
+
+.borda-textarea:focus{
+    border-color:#3AD2AE;
+    box-shadow: inset 0 0 1em #fff, 0 0 .2em #3AD2AE;
+}
+
+.input-resultado {
+    border-color:red;
+
+}
+
+.botao__principal{
+    width: 10rem;
+    height: 3rem;
+    border-radius: 4px;
+    background-color: #3895ff;
+    color: #fff;
+    font-family: roboto;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+.botao__principal:hover{
+    background-color: #19ACFF;
+    color: #fff;
+}
+
+.botao__principal__salvar{
+    width: 15rem;
+    height: 3rem;
+    border-radius: 4px;
+    background-color: #32CD32;
+    color: #fff;
+    font-family: roboto;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+.botao__principal__salvar:hover{
+    background-color: #00FF00;
+    color: #fff;
+}
+
+.botao__modal a{
+    color: #fff;
+    font-family: roboto;
+    text-decoration: none;
+}
+
+.required__color{
+    color: red;
+}
+

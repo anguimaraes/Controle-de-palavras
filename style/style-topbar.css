@@ -1,0 +1,45 @@
+.backgound{
+    background-color: #1A3966!important;
+}
+
+.img__posicao{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+    margin-left: -1rem;
+    width: 120%;
+}
+
+.img__tamanho{
+    width: 100%;
+}
+
+.titulo{
+    color: #1A3966;
+    font-family: montserrat;
+    font-weight: 600;
+    font-size: 25px;
+    margin-top: -3rem;
+}
+
+.titulo__borda{
+    border: none;
+    border-bottom: 1px solid #A5ABB2;
+    width: 100%;
+    margin-top: -3rem;
+}
+
+.borda{
+    border: none;
+    border-bottom: 1px solid #A5ABB2;
+
+}
+
+/* .pesquisa__posicao{
+    margin-right: 15rem;
+} */
+
+.tamanho__icone{
+    width: 2rem;
+    height: 2rem;
+}
